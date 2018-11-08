@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebUsingSQLite</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="display_contact">Display Contact</string>
+    <string name="ShowTbl">Show Table</string>
+
+</resources>
